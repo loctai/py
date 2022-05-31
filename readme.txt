@@ -1,0 +1,2 @@
+out::: b'Value cannot be null.\r\nParameter name: url\r\n'
+err::: b'\nUnhandled Exception: System.InvalidOperationException: Cannot read keys when either application does not have a console or when console input has been redirected from a file. Try Console.Read.\r\n   at System.Console.ReadKey(Boolean intercept)\r\n   at System.Console.ReadKey()\r\n   at BillAccept.Program.Main(String[] args)\n'
